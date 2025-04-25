@@ -10,4 +10,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+        <Reference Include="ClassLibraryTrophy">
+            <HintPath>C:\Users\mstac\Programmering\ObligatoriskOpgave3\Trophy\ClassLibraryTrophy\bin\Debug\net8.0\ClassLibraryTrophy.dll</HintPath>
+        </Reference>
+  </ItemGroup>
+
 </Project>
